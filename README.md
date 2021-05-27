@@ -9,3 +9,4 @@ Skills demonstrated:
 * Forecasting Returns using an ARMA Model.
 * Forecasting the Settle Price using an ARIMA Model.
 * Forecasting Volatility with GARCH.
+ 
